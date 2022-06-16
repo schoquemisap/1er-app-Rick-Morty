@@ -1,0 +1,16 @@
+.product-table{
+    border: 2px solid rgb(0, 255, 34);
+    border-radius: 5px;
+    width: 95%;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.product-table__header{
+    display: flex;
+    justify-content: space-evenly;
+}
+.product-table__header span{
+    font-size: 20px;
+    font-weight: 700;
+}

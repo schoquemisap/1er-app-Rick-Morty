@@ -1,0 +1,16 @@
+.category-container{
+    border: 1px solid black;
+    width: 95%;
+    margin: 0 auto;
+    border-radius: 5px;
+    margin-bottom: 16px;
+}
+.category-title{
+    font-size: 20;
+    font-weight: 700;
+    border: 2px solid hwb(192 4% 25%) ;
+    border-radius: 5px;
+    width: 90%;
+    margin: 2px auto;
+    margin-bottom: 8px;
+}
